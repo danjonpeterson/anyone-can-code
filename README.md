@@ -22,4 +22,6 @@ That's the only rule that is contrary
 
 [blank notebook](https://mybinder.org/v2/gh/danjonpeterson/anyone-can-code/master?filepath=name_game.ipynb)
 
+[python chat sheet](https://storage.googleapis.com/molten/lava/2018/09/a4c3337b-python-cheat-sheet-basics-dataquest.jpg)
+
 [spoilers! - name_game_djp.ipynp](https://mybinder.org/v2/gh/danjonpeterson/anyone-can-code/master?filepath=name_game_djp.ipynb)
